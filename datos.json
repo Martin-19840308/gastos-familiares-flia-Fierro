@@ -6339,7 +6339,9 @@
     "Vehiculo": {
       "icon": "ti-tag",
       "color": "#8b9cc4",
-      "items": []
+      "items": [
+        "nafta"
+      ]
     }
   }
 }
